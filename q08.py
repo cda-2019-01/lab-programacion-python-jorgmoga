@@ -41,4 +41,4 @@ for i in sorted(result.items()):
 	result2[i[0]] = sorted(i[1])
 
 for i in sorted(result2.items()):
-	print i
+	print(i)
